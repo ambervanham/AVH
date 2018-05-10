@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AVH",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,13 +39,13 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 127,
-    "versionPublish": "4.7.1",
+    "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/dsc-1952-128x85.png",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "",
+    "google-analytics": "UA-119034849-1",
     "siteUrl": "undefined"
   },
   "pages": {
