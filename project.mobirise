@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-20_1530",
+    "name": "AVH",
     "currentPage": "page8.html",
     "theme": {
       "name": "mobirise4",
@@ -41,7 +41,12 @@
     "uniqCompNum": 127,
     "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/dsc-1952-128x85.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
